@@ -34,7 +34,7 @@ function handleToggleTheme(){
   return (
     <button 
         onClick={handleToggleTheme}
-        className="fixed max-sm:hidden top-5 right-5 z-50 p-2 rounded-full transition-colors duration-300"
+        className="fixed max-sm:hidden top-15 right-5  z-50 p-2 rounded-full transition-colors duration-300"
     >
         {isDarkMode 
             ? 

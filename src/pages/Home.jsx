@@ -1,3 +1,4 @@
+import AboutSection from '../components/AboutSection'
 import HeroSection from '../components/HeroSection'
 import NavBar from '../components/NavBar'
 import StarBackgound from '../components/StarBackgound'
@@ -12,6 +13,7 @@ export default function Home() {
       <NavBar />
       <main>
         <HeroSection />
+        <AboutSection />
       </main>
     </div>
   )
