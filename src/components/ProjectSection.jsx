@@ -12,29 +12,7 @@ export default function ProjectSection() {
       gitHubUrl:
         "https://github.com/gokul-krishnan-gs/gokul-krishnan-portfolio",
       image: "/projects/project-1.png",
-    },
-    {
-      id: 2,
-      title: "Personal Portfolio",
-      description:
-        "A simple and beautifull portfolio that showcase my skills and projects,Built using React JS & Tailwind CSS",
-      tags: ["ReactJS", "Tailwind CSS", "Vercel"],
-      demoUrl: "https://gokul-krishnan-gs.vercel.app",
-      gitHubUrl:
-        "https://github.com/gokul-krishnan-gs/gokul-krishnan-portfolio",
-      image: "/projects/project-1.png",
-    },
-    {
-      id: 3,
-      title: "Personal Portfolio",
-      description:
-        "A simple and beautifull portfolio that showcase my skills and projects,Built using React JS & Tailwind CSS",
-      tags: ["ReactJS", "Tailwind CSS", "Vercel"],
-      demoUrl: "https://gokul-krishnan-gs.vercel.app",
-      gitHubUrl:
-        "https://github.com/gokul-krishnan-gs/gokul-krishnan-portfolio",
-      image: "/projects/project-1.png",
-    },
+    }
   ];
   return (
     <section id="projects" className="py-24 px-4 relative">
