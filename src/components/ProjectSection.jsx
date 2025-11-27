@@ -11,7 +11,7 @@ export default function ProjectSection() {
       demoUrl: "https://gokul-krishnan-gs.vercel.app",
       gitHubUrl:
         "https://github.com/gokul-krishnan-gs/gokul-krishnan-portfolio",
-      image: "./public/projects/project-1.png",
+      image: "/projects/project-1.png",
     },
     {
       id: 2,
@@ -22,7 +22,7 @@ export default function ProjectSection() {
       demoUrl: "https://gokul-krishnan-gs.vercel.app",
       gitHubUrl:
         "https://github.com/gokul-krishnan-gs/gokul-krishnan-portfolio",
-      image: "./public/projects/project-1.png",
+      image: "/projects/project-1.png",
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ export default function ProjectSection() {
       demoUrl: "https://gokul-krishnan-gs.vercel.app",
       gitHubUrl:
         "https://github.com/gokul-krishnan-gs/gokul-krishnan-portfolio",
-      image: "./public/projects/project-1.png",
+      image: "/projects/project-1.png",
     },
   ];
   return (
